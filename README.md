@@ -1,5 +1,3 @@
-## Welcome to INFIN1TY
-
 <!DOCTYPE html>
 <html>
 <head>
